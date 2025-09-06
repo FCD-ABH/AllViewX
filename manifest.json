@@ -1,7 +1,7 @@
 {
   "name": "AllViewX",
-  "description": "全チャンネルの閲覧と履歴取得を強制するプラグイン",
-  "authors": [{ "name": "Elder" }],
+  "description": "testplugin",
+  "authors": [{ "name": "mikan" }],
   "version": "2.0.0",
   "main": "index.js"
 }
